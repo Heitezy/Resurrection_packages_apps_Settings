@@ -355,7 +355,7 @@
     <string name="lockscreen_power_menu_disabled_summary">Allow accessing power menu on secure lock screen</string>
     <!-- Lockscreen charging current indicator  -->
     <string name="lockscreen_charging_current_title">Charging info</string>
-    <string name="lockscreen_charging_current_summary">Display negociated charger max current and voltage on lockscreen</string>
+    <string name="lockscreen_charging_current_summary">Display negotiated charger max current and voltage on lockscreen</string>
 
     <!-- Heads up -->
     <string name="heads_up_title">Allow Heads up</string>
@@ -459,6 +459,7 @@
     <string name="status_bar_battery_style_icon_landscape">Icon landscape</string>
     <string name="status_bar_battery_style_circle">Circle</string>
     <string name="status_bar_battery_style_text">Text</string>
+    <string name="status_bar_battery_style_q">Android Q</string>
     <string name="status_bar_battery_style_hidden">Hidden</string>
 
     <!--RR statusbar logo -->
@@ -2373,4 +2374,11 @@
     <string name="qs_brightness_slider_top">Top</string>
     <string name="qs_brightness_slider_bottom">Bottom</string>
 
+      <!-- Disabling FC notifications --> 
+    <string name="disable_fc_notifications_title">Diable FC Notifications</string> 
+    <string name="disable_fc_notifications_summary">This will hide all force close notificaitons</string> 
+
+    <!-- Charging animation -->
+    <string name="lockscreen_charging_animation_title">Charging animation</string>
+    <string name="lockscreen_charging_animation_summary">Display animation when charging</string>
 </resources>

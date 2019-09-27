@@ -141,7 +141,7 @@
 
   <string name="device_thea" translatable="false">Moto G 2014 LTE</string>
   <string name="device_thea_codename" translatable="false">Thea</string>
-  <string name="device_thea_maintainer" translatable="false">Uvneshkumar</string>
+  <string name="device_thea_maintainer" translatable="false">thedeadfish59</string>
 
   <string name="device_potter" translatable="false">Moto G5 Plus</string>
   <string name="device_potter_codename" translatable="false">Potter</string>
@@ -149,7 +149,7 @@
 
   <string name="device_sanders" translatable="false">Moto G5S Plus</string>
   <string name="device_sanders_codename" translatable="false">sanders</string>
-  <string name="device_sanders_maintainer" translatable="false">Keertesh </string>
+  <string name="device_sanders_maintainer" translatable="false">Alisson Grizotti </string>
 
   <string name="device_otus" translatable="false">Moto E 2015 3G</string>
   <string name="device_otus_codename" translatable="false">Otus</string>
@@ -166,6 +166,10 @@
   <string name="device_oneplus" translatable="false">OnePlus One</string>
   <string name="device_oneplus_codename" translatable="false">Bacon</string>
   <string name="device_oneplus_maintainer" translatable="false">Varun Date</string>
+
+  <string name="device_RMX1851" translatable="false">RealMe 3 Pro</string>
+  <string name="device_RMX1851_codename" translatable="false">RMX1851</string>
+  <string name="device_RMX1851_maintainer" translatable="false">ROMFACTORY(SARTHAKMALLA)</string>
 
   <string name="device_find7" translatable="false">OPPO</string>
   <string name="device_find7_codename" translatable="false">Find 7</string>
@@ -334,7 +338,7 @@
 
   <string name="device_j5ltexx" translatable="false">Galaxy J5</string>
   <string name="device_j5ltexx_codename" translatable="false">SM-J500F/FN/M/G/Y/H</string>
-  <string name="device_j5ltexx_maintainer" translatable="false">Dyneteve </string>
+  <string name="device_j5ltexx_maintainer" translatable="false">Gegham Zakaryan(zakaryan2004)</string>
 
   <string name="device_a3xelte" translatable="false">Galaxy A3 2016</string>
   <string name="device_a3xelte_codename" translatable="false">SM-A310F/M/NO/Y</string>
@@ -568,33 +572,37 @@
   <string name="device_g2_vs980_codename" translatable="false">vs980</string>
   <string name="device_g2_vs980_maintainer" translatable="false">sixohtew</string>
 
-  <string name="device_g3_tmo" translatable="false">LG G3 T-Mobile</string>
-  <string name="device_g3_tmo_codename" translatable="false">D851</string>
-  <string name="device_g3_tmo_maintainer" translatable="false">HardStyl3r</string>
+  <string name="device_g3_att" translatable="false">G3 (AT&amp;T)</string>
+  <string name="device_g3_att_codename" translatable="false">d850</string>
+  <string name="device_g3_att_maintainer" translatable="false">Aleksander Gencel (HardStyl3r)</string>
 
-  <string name="device_g3" translatable="false">LG G3 Int</string>
-  <string name="device_g3_codename" translatable="false">D855</string>
-  <string name="device_g3_maintainer" translatable="false">HardStyl3r</string>
+  <string name="device_g3_tmo" translatable="false">G3 (T-Mobile)</string>
+  <string name="device_g3_tmo_codename" translatable="false">d851</string>
+  <string name="device_g3_tmo_maintainer" translatable="false">Aleksander Gencel (HardStyl3r)</string>
 
-  <string name="device_g3_can" translatable="false">LG G3 Canada</string>
-  <string name="device_g3_can_codename" translatable="false">D852</string>
-  <string name="device_g3_can_maintainer" translatable="false">HardStyl3r</string>
+  <string name="device_g3_can" translatable="false">G3 (Canada)</string>
+  <string name="device_g3_can_codename" translatable="false">d852</string>
+  <string name="device_g3_can_maintainer" translatable="false">Aleksander Gencel (HardStyl3r)</string>
 
-  <string name="device_att_g3" translatable="false">LG G3 AT&amp;T</string>
-  <string name="device_att_g3_codename" translatable="false">D850</string>
-  <string name="device_att_g3_maintainer" translatable="false">Hasan Okarci</string>
+  <string name="device_g3" translatable="false">G3 (International)</string>
+  <string name="device_g3_codename" translatable="false">d855</string>
+  <string name="device_g3_maintainer" translatable="false">Aleksander Gencel (HardStyl3r)</string>
 
-  <string name="device_g3_kr" translatable="false">LG G3 Korea</string>
-  <string name="device_g3_kr_codename" translatable="false">F400</string>
-  <string name="device_g3_kr_maintainer" translatable="false">HardStyl3r</string>
+  <string name="device_g3_kr" translatable="false">G3 (Korea)</string>
+  <string name="device_g3_kr_codename" translatable="false">f400</string>
+  <string name="device_g3_kr_maintainer" translatable="false">Aleksander Gencel (HardStyl3r)</string>
 
-  <string name="device_g3_spr" translatable="false">LG G3 Sprint</string>
-  <string name="device_g3_spr_codename" translatable="false">LS990</string>
-  <string name="device_g3_spr_maintainer" translatable="false">HardStyl3r</string>
+  <string name="device_g3_dual" translatable="false">G3 (Dual)</string>
+  <string name="device_g3_dual_codename" translatable="false">g3ds</string>
+  <string name="device_g3_dual_maintainer" translatable="false">Aleksander Gencel (HardStyl3r)</string>
 
-  <string name="device_g3_vzw" translatable="false">LG G3 Verizon</string>
-  <string name="device_g3_vzw_codename" translatable="false">VS985</string>
-  <string name="device_g3_vzw_maintainer" translatable="false">HardStyl3r</string>
+  <string name="device_g3_spr" translatable="false">G3 (Sprint)</string>
+  <string name="device_g3_spr_codename" translatable="false">ls990</string>
+  <string name="device_g3_spr_maintainer" translatable="false">Aleksander Gencel (HardStyl3r)</string>
+
+  <string name="device_g3_vzw" translatable="false">G3 (Verizon)</string>
+  <string name="device_g3_vzw_codename" translatable="false">vs985</string>
+  <string name="device_g3_vzw_maintainer" translatable="false">Aleksander Gencel (HardStyl3r)</string>
 
   <string name="device_g3_beat" translatable="false">LG G3 Beat</string>
   <string name="device_g3_beat_codename" translatable="false">D722</string>
@@ -726,7 +734,7 @@
 
   <string name="device_gemini" translatable="false">Xiaomi MI 5</string>
   <string name="device_gemini_codename" translatable="false">Gemini</string>
-  <string name="device_gemini_maintainer" translatable="false">Krzysztof Brzęczyszczykiewicz (MOVZX)</string>
+  <string name="device_gemini_maintainer" translatable="false">Baalaji (baalajimaestro)</string>
 
   <string name="device_capricorn" translatable="false">Xiaomi MI 5s</string>
   <string name="device_capricorn_codename" translatable="false">Capricorn</string>
@@ -774,7 +782,11 @@
 
   <string name="device_tulip" translatable="false">Xiaomi Redmi Note 6 Pro</string>
   <string name="device_tulip_codename" translatable="false">tulip</string>
-  <string name="device_tulip_maintainer" translatable="false">Aryan Gupta</string>
+  <string name="device_tulip_maintainer" translatable="false"></string>
+  
+  <string name="device_lavender" translatable="false">Xiaomi Redmi Note 7/7S</string>
+  <string name="device_lavender_codename" translatable="false">lavender</string>
+  <string name="device_lavender_maintainer" translatable="false">Gegham Zakaryan(zakaryan2004)</string>
 
   <string name="device_tissot" translatable="false">Xiaomi Mi A1</string>
   <string name="device_tissot_codename" translatable="false">Tissot</string>
@@ -782,7 +794,7 @@
 
   <string name="device_jasmine_sprout" translatable="false">Xiaomi Mi A2</string>
   <string name="device_jasmine_sprout_codename" translatable="false">jasmine_sprout</string>
-     <string name="device_jasmine_sprout_maintainer" translatable="false">Shouko Komi</string>
+  <string name="device_jasmine_sprout_maintainer" translatable="false">Aryan Gupta(darkbeast69)</string>
 
   <string name="device_daisy" translatable="false">Xiaomi Mi A2 Lite</string>
   <string name="device_daisy_codename" translatable="false">daisy</string>
@@ -790,11 +802,15 @@
 
   <string name="device_hydrogen" translatable="false">Xiaomi Mi Max</string>
   <string name="device_hydrogen_codename" translatable="false">Hydrogen</string>
-  <string name="device_hydrogen_maintainer" translatable="false">ROMFACTORY(SARTHAKMALLA)</string>
+  <string name="device_hydrogen_maintainer" translatable="false"></string>
   
   <string name="device_rosy" translatable="false">Xiaomi Redmi 5</string>
   <string name="device_rosy_codename" translatable="false">rosy</string>
-  <string name="device_rosy_maintainer" translatable="false">Sekhar bobby</string>
+  <string name="device_rosy_maintainer" translatable="false">Shreejoy Dash</string>
+
+  <string name="device_violet" translatable="false">Redmi Note 7 Pro</string>
+  <string name="device_violet_codename" translatable="false">Violet</string>
+  <string name="device_violet_maintainer" translatable="false">Rashed Sahaji</string>
    
   <string name="device_sprout4" translatable="false">Android One - 4GB variants (1st Gen)</string>
   <string name="device_sprout4_codename" translatable="false">Sprout4</string>
@@ -1014,7 +1030,7 @@
 
   <string name="device_helium" translatable="false">Xiaomi Mi Max Prime</string>
   <string name="device_helium_codename" translatable="false">Helium</string>
-  <string name="device_helium_maintainer" translatable="false">ROMFACTORY(SARTHAKMALLA)</string>
+  <string name="device_helium_maintainer" translatable="false"></string>
    
   <string name="device_z2_row" translatable="false">Zuk Z2 PRO</string>
   <string name="device_z2_row_codename" translatable="false">z2_row</string>
@@ -1022,7 +1038,7 @@
 
   <string name="device_oxygen" translatable="false">Xiaomi Mi Max 2</string>
   <string name="device_oxygen_codename" translatable="false">oxygen</string>
-  <string name="device_oxygen_maintainer" translatable="false">ROMFACTORY(SARTHAKMALLA)</string>
+  <string name="device_oxygen_maintainer" translatable="false"></string>
 
   <string name="device_on7xelte" translatable="false">Galaxy J7 Prime</string>
   <string name="device_on7xelte_codename" translatable="false">on7xelte</string>
